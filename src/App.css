@@ -1,0 +1,32 @@
+.forms-container{
+  background-color:transparent;
+  text-align: center;  
+}
+
+.submit:focus,.submit:active, .submit:hover {
+  outline: none !important;
+  box-shadow: none;
+  background-color: transparent;
+  color: lightslategray;
+}
+
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-track {
+  
+  box-shadow: inset 0 0 5px grey; 
+  border-radius: 10px;
+}
+ 
+::-webkit-scrollbar-thumb {
+  background: rgb(255, 128, 192);
+  border-radius: 10px;  
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: pink; 
+}
+
