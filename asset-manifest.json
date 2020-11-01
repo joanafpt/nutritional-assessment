@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nutritional-assessment/static/css/main.84f6798d.chunk.css",
+    "main.js": "/nutritional-assessment/static/js/main.1f2da288.chunk.js",
+    "main.js.map": "/nutritional-assessment/static/js/main.1f2da288.chunk.js.map",
+    "runtime-main.js": "/nutritional-assessment/static/js/runtime-main.9bc45abb.js",
+    "runtime-main.js.map": "/nutritional-assessment/static/js/runtime-main.9bc45abb.js.map",
+    "static/js/2.82fe28cc.chunk.js": "/nutritional-assessment/static/js/2.82fe28cc.chunk.js",
+    "static/js/2.82fe28cc.chunk.js.map": "/nutritional-assessment/static/js/2.82fe28cc.chunk.js.map",
+    "index.html": "/nutritional-assessment/index.html",
+    "precache-manifest.7e7766172e4189a5f6713ca79278ae6c.js": "/nutritional-assessment/precache-manifest.7e7766172e4189a5f6713ca79278ae6c.js",
+    "service-worker.js": "/nutritional-assessment/service-worker.js",
+    "static/css/main.84f6798d.chunk.css.map": "/nutritional-assessment/static/css/main.84f6798d.chunk.css.map",
+    "static/js/2.82fe28cc.chunk.js.LICENSE.txt": "/nutritional-assessment/static/js/2.82fe28cc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9bc45abb.js",
+    "static/js/2.82fe28cc.chunk.js",
+    "static/css/main.84f6798d.chunk.css",
+    "static/js/main.1f2da288.chunk.js"
+  ]
+}
